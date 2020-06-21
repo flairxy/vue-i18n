@@ -1,0 +1,12 @@
+{
+  "car": "car | cars",
+  "fruits": {
+    "apple": "0 apples | 1 apple | {n} apples",
+    "orange": "",
+    "watermelon": ""
+  },
+  "goodbye": "goodbye {name}",
+  "message": "hello {name}",
+  "terms": "I accept the {termsURL} of the service contract",
+  "termsLink": "terms and conditions"
+}

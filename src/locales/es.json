@@ -1,0 +1,12 @@
+{
+  "car": "",
+  "fruits": {
+    "apple": "",
+    "orange": "",
+    "watermelon": ""
+  },
+  "goodbye": "adios {name}",
+  "message": "hola {name}",
+  "terms": "Acepto los {termsURL}  del contrato de servicio",
+  "termsLink": "términos y condiciones"
+}

@@ -1,0 +1,12 @@
+{
+  "car": "",
+  "fruits": {
+    "apple": "",
+    "orange": "",
+    "watermelon": ""
+  },
+  "goodbye": " Auf Wiedersehen {name}",
+  "message": "hallo {name}",
+  "terms": "Ich akzeptiere {termsURL} des Servicevertrags",
+  "termsLink": "Bedingungen"
+}
